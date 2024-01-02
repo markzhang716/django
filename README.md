@@ -1,4 +1,4 @@
-# Django Guide Book
+# Uncle Mark's Django Guide Book
 
 A guide book to django for beginner
 
